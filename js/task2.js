@@ -1,4 +1,3 @@
-// не понимаю почему не работает(,работает только если укзать назвнаие объекта вместо this
 const inventory = {
   items: ['Knife', 'Gas mask'],
   add(itemName) {
